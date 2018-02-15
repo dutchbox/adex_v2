@@ -1,0 +1,43 @@
+{
+    "banner_image": "./assets/images/listing/ADEX-SG-2018-banner.png",
+    "banner_title": "ENTERTAIN . EDUCATE . ENGAGE",
+    "banner_sub": "FILM/IMAGE/BOOK/MUSIC/ART & SCIENCE",
+    "banner_desp": "In 2018 ADEX will be 23 and we plan to make this the best and most comprehensive show yet. 2018 will be the biggest show yet with almost 10,000 squaremeters of floor space. ADEX will continue in bringing together the very best of the diving community from Asia-Pacific and the rest of the world. It will showcase the industry’s most important diving equipment manufacturers, retailers, training agency and dive destination. It will also feature workshops and presentation from the world’s most famous photographers, ocean artists, marine conservations, Scientist, Tek divers, Free divers and more with hands-on educational activities for children of all ages.",
+    "populars": [
+        {
+            "title": "Air Sports",
+            "image": "./assets/images/listing/300x300AirSports.png"
+        },
+        {
+            "title": "Water Sports",
+            "image": "./assets/images/listing/300x300WaterSports.png"
+        },
+        {
+            "title": "Beach Sports",
+            "image": "./assets/images/listing/300x300BeachSports.png"
+        },
+        {
+            "title": "Extreme Sports",
+            "image": "./assets/images/listing/300x300ExtremeSports.png"
+        },
+        {
+            "title": "Athletic Sports",
+            "image": "./assets/images/listing/300x300AthleticSports.png"
+        },
+        {
+            "title": "Combat Sports",
+            "image": "./assets/images/listing/300x300CombatSports.png"
+        }
+    ],
+    "categories": [
+        {
+            "title": "Hongkong",
+            "image": "./assets/images/listing/ADEX-SG-2018-banner2.png"
+        },
+        {
+            "title": "Beijing",
+            "image": "./assets/images/listing/ADEX-SG-2018-banner3.png"
+        }
+       
+    ]
+}

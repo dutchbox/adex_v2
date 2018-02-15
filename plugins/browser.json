@@ -1,0 +1,60 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-email": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-facebook4": {
+            "APP_ID": "2090535017833555",
+            "APP_NAME": "ADEX",
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-googleplus": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-nativestorage": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        },
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "asia.adex.mobiel2018"
+        }
+    }
+}

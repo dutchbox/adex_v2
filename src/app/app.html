@@ -1,0 +1,31 @@
+<ion-menu [content]="content" [swipeEnabled]="false">
+  <ion-content class="menu-content">
+    
+    
+    <ion-item-divider class="app-logo">
+      <preload-image [ratio]="{w:420, h:136}" src="./assets/images/Adex-2018-logo-horizontal.png"></preload-image> 
+    </ion-item-divider>
+
+
+    <ion-list class="menu-list">
+      <button ion-item detail-none *ngFor="let page of pages" (click)="openPage(page)">
+        <ion-icon *ngIf="page.icon" name="{{page.icon}}" item-left></ion-icon>
+        {{page.title}}
+      </button>
+      <button ion-item detail-none *ngFor="let page of pushPages" (click)="pushPage(page)">
+        <ion-icon *ngIf="page.icon" name="{{page.icon}}" item-left></ion-icon>
+        {{page.title}}
+      </button>
+
+    <ion-row padding>
+      <ion-col width-60>
+            <preload-image [ratio]="{w:100, h:31}" src="./assets/images/uw360-logo.png"></preload-image>
+      </ion-col>
+    </ion-row>    
+
+    </ion-list>  
+
+  </ion-content>
+</ion-menu>
+
+<ion-nav [root]="rootPage" #content swipe-back-enabled="false"></ion-nav>
